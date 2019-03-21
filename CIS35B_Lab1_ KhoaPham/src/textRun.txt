@@ -1,0 +1,289 @@
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: Cloud 9 White
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: Power Moonroof
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 595.0
+*****************************************************************
+
+Finding OptionSet with name!!
+We found the set of Options
+
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: Cloud 9 White
+	Option price: 0.0
+*****************************************************************
+
+
+
+Finding Option with name and with index of OptionSet!!
+We found option with name: Cloud 9 White
+	Option name: Cloud 9 White
+	Option price: 0.0
+
+Delete OptionSet with name: Power Moonroof
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: Cloud 9 White
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: null
+*****************************************************************
+
+Delete Option with name: Cloud 9 White
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: null
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: null
+*****************************************************************
+
+Finding OptionSet with name!!
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Painting
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: null
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: null
+*****************************************************************
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 0.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: Grabber Green
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: Cloud 9 White
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: Power Moonroof
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 595.0
+*****************************************************************
