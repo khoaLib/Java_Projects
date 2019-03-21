@@ -1,0 +1,53 @@
+#
+0
+5
+!Color
+11
+#
+0
+Liquid Grey
+0
+Infra-Red
+0
+Grabber Green
+0
+Sangria red
+0
+French Blue
+0
+Twilight Blue and Black
+0
+CD Silver
+0
+Unicorn Rainbow colors
+0
+Pitch Black
+0
+Cloud 9 White
+0
+!Transmission
+2
+#
+0
+standard
+-815
+!#
+3
+standard
+0
+ABS
+400
+ABS with Advance Trac
+1625
+!Side Impact Air Bags
+2
+none
+0
+selected
+0
+!Power Moonroof
+2
+none
+0
+selected
+595
