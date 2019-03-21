@@ -1,0 +1,13 @@
+0
+3
+{m1=model.Automobile@15db9742, m2=model.Automobile@15db9742, m3=model.Automobile@15db9742}
+2
+Base Price: 20897.0
+Choice name: French Blue
+Choice Price: 0.0
+Total price of m1: 20082.0
+Choice name: ABS
+Choice Price: 400.0
+Base Price: 20897.0
+Total price of m2: 21077.0
+There is error on mapping
