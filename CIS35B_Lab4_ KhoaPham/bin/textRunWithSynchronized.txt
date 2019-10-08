@@ -1,0 +1,66 @@
+We found option with name: Grabber Green
+changed name to SuperGreenTea
+DOne Thread
+We found option with name: 0.0
+changed price to 100.0
+DOne Thread
+
+Error!! in making updating decision!
+
+
+We found option with name: 0.0
+changed price to 100.0
+DOne Thread
+Wrong size of String array!
+Name of Model: Focus Wagon ZTW
+Base Price of Model: 20897.0
+	++OptionSet name: Color
+	Option name: FortKnox Gold
+	Option price: 100.0
+	Option name: Liquid Grey
+	Option price: 0.0
+	Option name: Infra-Red
+	Option price: 0.0
+	Option name: SuperGreenTea
+	Option price: 0.0
+	Option name: Sangria red
+	Option price: 0.0
+	Option name: French Blue
+	Option price: 0.0
+	Option name: Twilight Blue and Black
+	Option price: 0.0
+	Option name: CD Silver
+	Option price: 0.0
+	Option name: Unicorn Rainbow colors
+	Option price: 0.0
+	Option name: Pitch Black
+	Option price: 0.0
+	Option name: Cloud 9 White
+	Option price: 0.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 100.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Brakes/Traction Control
+	Option name: standard
+	Option price: 0.0
+	Option name: ABS
+	Option price: 400.0
+	Option name: ABS with Advance Trac
+	Option price: 1625.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 0.0
+
+	++OptionSet name: Power Moonroof
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 595.0
+*****************************************************************

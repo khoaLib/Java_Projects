@@ -1,0 +1,133 @@
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
+1
+
+Since the Window need you to provide address of the Properties files
+We have 2 example Property file below: 
+	1. C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\PropertyText101.properties
+	2. C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\property02.properties
+Please enter the address of the property file below: 
+C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\PropertyText101.properties
+Done Upload
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
+3
+
+The system currently have: 1
+
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
+1
+
+Since the Window need you to provide address of the Properties files
+We have 2 example Property file below: 
+	1. C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\PropertyText101.properties
+	2. C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\property02.properties
+Please enter the address of the property file below: 
+C:\\Users\\hp\\eclipse-workspace\\CIS35B_Lab5_ KhoaPham\\src\\property02.properties
+Done Upload
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
+3
+
+The system currently have: 2
+
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
+2
+
+Requesting the list of Models...
+	1. LandCruiser
+	2. Aventador
+Please enter decision in integer: 
+2
+Car Make: Lamborghini
+Car Model Aventador
+Car Price 402995.0
+
+	++OptionSet name: Color
+	Option name: Cloud 9 White
+	Option price: 900.0
+	Option name: Twilight Blue and Black
+	Option price: 700.0
+	Option name: Unicorn Rainbow colors
+	Option price: 1000.0
+
+	++OptionSet name: Transmission
+	Option name: automatic
+	Option price: 0.0
+	Option name: standard
+	Option price: -815.0
+
+	++OptionSet name: Side Impact Air Bags
+	Option name: none
+	Option price: 0.0
+	Option name: selected
+	Option price: 300.0
+Please Enter option set: 
+Color
+Please next enter Option: 
+Twilight Blue and Black
+
+Do you want to add more option? (Press Y or y to continue)
+y
+Please Enter option set: 
+Side Impact Air Bags
+Please next enter Option: 
+selected
+
+Do you want to add more option? (Press Y or y to continue)
+y
+Please Enter option set: 
+Transmission
+Please next enter Option: 
+automatic
+
+Do you want to add more option? (Press Y or y to continue)
+p
+Total price of the Option choices and car: 403995.0
+
+	*******************************************
+	*Menu of choices                          *
+	*******************************************
+	*1. Upload File                           *
+	*2.Configure                              *
+	*3. Afk for Number of Models in the system*
+	*4.Quit Program                           *
+	*******************************************
+Please enter decision from 1 to 4 by integer: 
